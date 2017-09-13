@@ -17,11 +17,11 @@
         android:background="@color/Snow"
         android:orientation="horizontal">
 
-        <include layout="@layout/actionbar_discard_button" />
+        <include layout="@layout/actionbar_discard_button2" />
 
-        <include layout="@layout/actionbar_done_button" />
+        <include layout="@layout/actionbar_done_button2" />
 
-        <include layout="@layout/actionbar_add" />
+        <include layout="@layout/actionbar_add2" />
 
 
     </LinearLayout>
